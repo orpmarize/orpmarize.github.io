@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orpmarize.github.io/sitemap
+Sitemap: https://orpmarize.github.io/app/sitemap
+Sitemap: https://orpmarize.github.io/assets/sitemap
+Sitemap: https://orpmarize.github.io/css/sitemap
+Sitemap: https://orpmarize.github.io/includes/sitemap
+Sitemap: https://orpmarize.github.io/item/sitemap
+Sitemap: https://orpmarize.github.io/src/sitemap
